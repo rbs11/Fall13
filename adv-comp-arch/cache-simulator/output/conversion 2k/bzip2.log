@@ -1,0 +1,26 @@
+Cache Settings
+C1: 12
+B1: 5
+S1: 3
+C2: 15
+B2: 6
+S2: 5
+K: 2
+
+Cache Statistics
+Accesses: 1000000
+Reads: 930113
+L1 Read misses: 27303
+L2 Read misses: 18338
+Writes: 69887
+L1 Write misses: 154
+L2 Write misses: 6
+Write backs: 1110
+Evicted blocks: 0
+Prefetched blocks: 1595
+Successful prefetches: 270
+Average access time (AAT): 11.933742
+RATIO: 5.907407 
+NUMBER OF PAGES: 252 
+PREFETCHES ACROSS PAGES: 174 
+PREFETCHES ACROSS PAGES SUCCESSFUL: 2 

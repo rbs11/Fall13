@@ -1,0 +1,650 @@
+ASTAR
+
+C1:15 B1:2 S1:0 C2:17 B2:10 S2:0 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:0 C2:17 B2:10 S2:1 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:0 C2:17 B2:10 S2:2 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:0 C2:17 B2:10 S2:3 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:0 C2:17 B2:10 S2:4 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:0 C2:17 B2:10 S2:5 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:0 C2:17 B2:10 S2:6 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:0 C2:17 B2:10 S2:7 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:0 C2:17 B2:11 S2:0 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:0 C2:17 B2:11 S2:1 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:0 C2:17 B2:11 S2:2 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:0 C2:17 B2:11 S2:3 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:0 C2:17 B2:11 S2:4 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:0 C2:17 B2:11 S2:5 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:0 C2:17 B2:11 S2:6 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:0 C2:17 B2:12 S2:0 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:0 C2:17 B2:12 S2:1 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:0 C2:17 B2:12 S2:2 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:0 C2:17 B2:12 S2:3 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:0 C2:17 B2:12 S2:4 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:0 C2:17 B2:12 S2:5 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:0 C2:17 B2:13 S2:0 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:0 C2:17 B2:13 S2:1 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:0 C2:17 B2:13 S2:2 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:0 C2:17 B2:13 S2:3 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:0 C2:17 B2:13 S2:4 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:0 C2:17 B2:14 S2:0 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:0 C2:17 B2:14 S2:1 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:0 C2:17 B2:14 S2:2 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:0 C2:17 B2:14 S2:3 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:0 C2:17 B2:15 S2:0 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:0 C2:17 B2:15 S2:1 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:0 C2:17 B2:15 S2:2 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:1 C2:17 B2:10 S2:1 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:1 C2:17 B2:10 S2:2 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:1 C2:17 B2:10 S2:3 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:1 C2:17 B2:10 S2:4 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:1 C2:17 B2:10 S2:5 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:1 C2:17 B2:10 S2:6 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:1 C2:17 B2:10 S2:7 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:1 C2:17 B2:11 S2:1 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:1 C2:17 B2:11 S2:2 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:1 C2:17 B2:11 S2:3 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:1 C2:17 B2:11 S2:4 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:1 C2:17 B2:11 S2:5 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:1 C2:17 B2:11 S2:6 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:1 C2:17 B2:12 S2:1 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:1 C2:17 B2:12 S2:2 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:1 C2:17 B2:12 S2:3 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:1 C2:17 B2:12 S2:4 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:1 C2:17 B2:12 S2:5 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:1 C2:17 B2:13 S2:1 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:1 C2:17 B2:13 S2:2 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:1 C2:17 B2:13 S2:3 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:1 C2:17 B2:13 S2:4 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:1 C2:17 B2:14 S2:1 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:1 C2:17 B2:14 S2:2 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:1 C2:17 B2:14 S2:3 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:1 C2:17 B2:15 S2:1 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:1 C2:17 B2:15 S2:2 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:2 C2:17 B2:10 S2:2 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:2 C2:17 B2:10 S2:3 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:2 C2:17 B2:10 S2:4 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:2 C2:17 B2:10 S2:5 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:2 C2:17 B2:10 S2:6 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:2 C2:17 B2:10 S2:7 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:2 C2:17 B2:11 S2:2 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:2 C2:17 B2:11 S2:3 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:2 C2:17 B2:11 S2:4 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:2 C2:17 B2:11 S2:5 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:2 C2:17 B2:11 S2:6 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:2 C2:17 B2:12 S2:2 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:2 C2:17 B2:12 S2:3 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:2 C2:17 B2:12 S2:4 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:2 C2:17 B2:12 S2:5 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:2 C2:17 B2:13 S2:2 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:2 C2:17 B2:13 S2:3 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:2 C2:17 B2:13 S2:4 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:2 C2:17 B2:14 S2:2 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:2 C2:17 B2:14 S2:3 K:4  L1 Cache limits out of bounds
+C1:15 B1:2 S1:2 C2:17 B2:15 S2:2 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:0 C2:17 B2:10 S2:0 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:0 C2:17 B2:10 S2:1 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:0 C2:17 B2:10 S2:2 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:0 C2:17 B2:10 S2:3 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:0 C2:17 B2:10 S2:4 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:0 C2:17 B2:10 S2:5 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:0 C2:17 B2:10 S2:6 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:0 C2:17 B2:10 S2:7 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:0 C2:17 B2:11 S2:0 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:0 C2:17 B2:11 S2:1 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:0 C2:17 B2:11 S2:2 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:0 C2:17 B2:11 S2:3 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:0 C2:17 B2:11 S2:4 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:0 C2:17 B2:11 S2:5 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:0 C2:17 B2:11 S2:6 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:0 C2:17 B2:12 S2:0 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:0 C2:17 B2:12 S2:1 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:0 C2:17 B2:12 S2:2 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:0 C2:17 B2:12 S2:3 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:0 C2:17 B2:12 S2:4 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:0 C2:17 B2:12 S2:5 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:0 C2:17 B2:13 S2:0 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:0 C2:17 B2:13 S2:1 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:0 C2:17 B2:13 S2:2 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:0 C2:17 B2:13 S2:3 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:0 C2:17 B2:13 S2:4 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:0 C2:17 B2:14 S2:0 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:0 C2:17 B2:14 S2:1 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:0 C2:17 B2:14 S2:2 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:0 C2:17 B2:14 S2:3 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:0 C2:17 B2:15 S2:0 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:0 C2:17 B2:15 S2:1 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:0 C2:17 B2:15 S2:2 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:1 C2:17 B2:10 S2:1 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:1 C2:17 B2:10 S2:2 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:1 C2:17 B2:10 S2:3 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:1 C2:17 B2:10 S2:4 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:1 C2:17 B2:10 S2:5 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:1 C2:17 B2:10 S2:6 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:1 C2:17 B2:10 S2:7 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:1 C2:17 B2:11 S2:1 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:1 C2:17 B2:11 S2:2 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:1 C2:17 B2:11 S2:3 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:1 C2:17 B2:11 S2:4 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:1 C2:17 B2:11 S2:5 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:1 C2:17 B2:11 S2:6 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:1 C2:17 B2:12 S2:1 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:1 C2:17 B2:12 S2:2 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:1 C2:17 B2:12 S2:3 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:1 C2:17 B2:12 S2:4 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:1 C2:17 B2:12 S2:5 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:1 C2:17 B2:13 S2:1 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:1 C2:17 B2:13 S2:2 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:1 C2:17 B2:13 S2:3 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:1 C2:17 B2:13 S2:4 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:1 C2:17 B2:14 S2:1 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:1 C2:17 B2:14 S2:2 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:1 C2:17 B2:14 S2:3 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:1 C2:17 B2:15 S2:1 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:1 C2:17 B2:15 S2:2 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:2 C2:17 B2:10 S2:2 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:2 C2:17 B2:10 S2:3 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:2 C2:17 B2:10 S2:4 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:2 C2:17 B2:10 S2:5 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:2 C2:17 B2:10 S2:6 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:2 C2:17 B2:10 S2:7 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:2 C2:17 B2:11 S2:2 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:2 C2:17 B2:11 S2:3 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:2 C2:17 B2:11 S2:4 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:2 C2:17 B2:11 S2:5 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:2 C2:17 B2:11 S2:6 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:2 C2:17 B2:12 S2:2 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:2 C2:17 B2:12 S2:3 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:2 C2:17 B2:12 S2:4 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:2 C2:17 B2:12 S2:5 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:2 C2:17 B2:13 S2:2 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:2 C2:17 B2:13 S2:3 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:2 C2:17 B2:13 S2:4 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:2 C2:17 B2:14 S2:2 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:2 C2:17 B2:14 S2:3 K:4  L1 Cache limits out of bounds
+C1:15 B1:3 S1:2 C2:17 B2:15 S2:2 K:4  L1 Cache limits out of bounds
+C1:15 B1:4 S1:0 C2:17 B2:10 S2:0 K:4  Average access time (AAT): 8.967152
+C1:15 B1:4 S1:0 C2:17 B2:10 S2:1 K:4  Average access time (AAT): 5.541072
+C1:15 B1:4 S1:0 C2:17 B2:10 S2:2 K:4  Average access time (AAT): 4.972602
+C1:15 B1:4 S1:0 C2:17 B2:10 S2:3 K:4  Average access time (AAT): 4.877741
+C1:15 B1:4 S1:0 C2:17 B2:10 S2:4 K:4  Average access time (AAT): 4.940418
+C1:15 B1:4 S1:0 C2:17 B2:10 S2:5 K:4  Average access time (AAT): 5.027025
+C1:15 B1:4 S1:0 C2:17 B2:10 S2:6 K:4  Average access time (AAT): 5.839500
+C1:15 B1:4 S1:0 C2:17 B2:10 S2:7 K:4  Average access time (AAT): 5.926107
+C1:15 B1:4 S1:0 C2:17 B2:11 S2:0 K:4  Average access time (AAT): 9.010027
+C1:15 B1:4 S1:0 C2:17 B2:11 S2:1 K:4  Average access time (AAT): 5.501189
+C1:15 B1:4 S1:0 C2:17 B2:11 S2:2 K:4  Average access time (AAT): 4.616647
+C1:15 B1:4 S1:0 C2:17 B2:11 S2:3 K:4  Average access time (AAT): 4.431053
+C1:15 B1:4 S1:0 C2:17 B2:11 S2:4 K:4  Average access time (AAT): 4.479771
+C1:15 B1:4 S1:0 C2:17 B2:11 S2:5 K:4  Average access time (AAT): 4.913358
+C1:15 B1:4 S1:0 C2:17 B2:11 S2:6 K:4  Average access time (AAT): 4.969056
+C1:15 B1:4 S1:0 C2:17 B2:12 S2:0 K:4  Average access time (AAT): 9.723931
+C1:15 B1:4 S1:0 C2:17 B2:12 S2:1 K:4  Average access time (AAT): 6.101427
+C1:15 B1:4 S1:0 C2:17 B2:12 S2:2 K:4  Average access time (AAT): 4.817059
+C1:15 B1:4 S1:0 C2:17 B2:12 S2:3 K:4  Average access time (AAT): 4.351287
+C1:15 B1:4 S1:0 C2:17 B2:12 S2:4 K:4  Average access time (AAT): 4.504697
+C1:15 B1:4 S1:0 C2:17 B2:12 S2:5 K:4  Average access time (AAT): 4.584324
+C1:15 B1:4 S1:0 C2:17 B2:13 S2:0 K:4  Average access time (AAT): 10.913438
+C1:15 B1:4 S1:0 C2:17 B2:13 S2:1 K:4  Average access time (AAT): 6.914041
+C1:15 B1:4 S1:0 C2:17 B2:13 S2:2 K:4  Average access time (AAT): 5.474130
+C1:15 B1:4 S1:0 C2:17 B2:13 S2:3 K:4  Average access time (AAT): 4.919618
+C1:15 B1:4 S1:0 C2:17 B2:13 S2:4 K:4  Average access time (AAT): 4.703115
+C1:15 B1:4 S1:0 C2:17 B2:14 S2:0 K:4  Average access time (AAT): 12.702186
+C1:15 B1:4 S1:0 C2:17 B2:14 S2:1 K:4  Average access time (AAT): 8.082610
+C1:15 B1:4 S1:0 C2:17 B2:14 S2:2 K:4  Average access time (AAT): 7.590915
+C1:15 B1:4 S1:0 C2:17 B2:14 S2:3 K:4  Average access time (AAT): 7.087254
+C1:15 B1:4 S1:0 C2:17 B2:15 S2:0 K:4  Average access time (AAT): 15.123079
+C1:15 B1:4 S1:0 C2:17 B2:15 S2:1 K:4  Average access time (AAT): 9.725786
+C1:15 B1:4 S1:0 C2:17 B2:15 S2:2 K:4  Average access time (AAT): 9.859255
+C1:15 B1:4 S1:1 C2:17 B2:10 S2:1 K:4  Average access time (AAT): 4.992208
+C1:15 B1:4 S1:1 C2:17 B2:10 S2:2 K:4  Average access time (AAT): 4.998772
+C1:15 B1:4 S1:1 C2:17 B2:10 S2:3 K:4  Average access time (AAT): 4.985393
+C1:15 B1:4 S1:1 C2:17 B2:10 S2:4 K:4  Average access time (AAT): 5.077705
+C1:15 B1:4 S1:1 C2:17 B2:10 S2:5 K:4  Average access time (AAT): 5.145089
+C1:15 B1:4 S1:1 C2:17 B2:10 S2:6 K:4  Average access time (AAT): 5.964267
+C1:15 B1:4 S1:1 C2:17 B2:10 S2:7 K:4  Average access time (AAT): 6.039628
+C1:15 B1:4 S1:1 C2:17 B2:11 S2:1 K:4  Average access time (AAT): 4.594377
+C1:15 B1:4 S1:1 C2:17 B2:11 S2:2 K:4  Average access time (AAT): 4.487273
+C1:15 B1:4 S1:1 C2:17 B2:11 S2:3 K:4  Average access time (AAT): 4.474892
+C1:15 B1:4 S1:1 C2:17 B2:11 S2:4 K:4  Average access time (AAT): 4.543274
+C1:15 B1:4 S1:1 C2:17 B2:11 S2:5 K:4  Average access time (AAT): 4.966613
+C1:15 B1:4 S1:1 C2:17 B2:11 S2:6 K:4  Average access time (AAT): 5.040977
+C1:15 B1:4 S1:1 C2:17 B2:12 S2:1 K:4  Average access time (AAT): 4.558482
+C1:15 B1:4 S1:1 C2:17 B2:12 S2:2 K:4  Average access time (AAT): 4.331730
+C1:15 B1:4 S1:1 C2:17 B2:12 S2:3 K:4  Average access time (AAT): 4.313366
+C1:15 B1:4 S1:1 C2:17 B2:12 S2:4 K:4  Average access time (AAT): 4.528318
+C1:15 B1:4 S1:1 C2:17 B2:12 S2:5 K:4  Average access time (AAT): 4.624617
+C1:15 B1:4 S1:1 C2:17 B2:13 S2:1 K:4  Average access time (AAT): 4.977252
+C1:15 B1:4 S1:1 C2:17 B2:13 S2:2 K:4  Average access time (AAT): 4.519180
+C1:15 B1:4 S1:1 C2:17 B2:13 S2:3 K:4  Average access time (AAT): 4.490845
+C1:15 B1:4 S1:1 C2:17 B2:13 S2:4 K:4  Average access time (AAT): 4.554242
+C1:15 B1:4 S1:1 C2:17 B2:14 S2:1 K:4  Average access time (AAT): 5.847697
+C1:15 B1:4 S1:1 C2:17 B2:14 S2:2 K:4  Average access time (AAT): 5.480358
+C1:15 B1:4 S1:1 C2:17 B2:14 S2:3 K:4  Average access time (AAT): 5.098062
+C1:15 B1:4 S1:1 C2:17 B2:15 S2:1 K:4  Average access time (AAT): 7.585594
+C1:15 B1:4 S1:1 C2:17 B2:15 S2:2 K:4  Average access time (AAT): 7.365822
+C1:15 B1:4 S1:2 C2:17 B2:10 S2:2 K:4  Average access time (AAT): 5.129879
+C1:15 B1:4 S1:2 C2:17 B2:10 S2:3 K:4  Average access time (AAT): 5.172246
+C1:15 B1:4 S1:2 C2:17 B2:10 S2:4 K:4  Average access time (AAT): 5.256490
+C1:15 B1:4 S1:2 C2:17 B2:10 S2:5 K:4  Average access time (AAT): 5.322787
+C1:15 B1:4 S1:2 C2:17 B2:10 S2:6 K:4  Average access time (AAT): 6.147855
+C1:15 B1:4 S1:2 C2:17 B2:10 S2:7 K:4  Average access time (AAT): 6.219137
+C1:15 B1:4 S1:2 C2:17 B2:11 S2:2 K:4  Average access time (AAT): 4.620375
+C1:15 B1:4 S1:2 C2:17 B2:11 S2:3 K:4  Average access time (AAT): 4.644795
+C1:15 B1:4 S1:2 C2:17 B2:11 S2:4 K:4  Average access time (AAT): 4.710094
+C1:15 B1:4 S1:2 C2:17 B2:11 S2:5 K:4  Average access time (AAT): 5.142317
+C1:15 B1:4 S1:2 C2:17 B2:11 S2:6 K:4  Average access time (AAT): 5.219581
+C1:15 B1:4 S1:2 C2:17 B2:12 S2:2 K:4  Average access time (AAT): 4.487765
+C1:15 B1:4 S1:2 C2:17 B2:12 S2:3 K:4  Average access time (AAT): 4.488254
+C1:15 B1:4 S1:2 C2:17 B2:12 S2:4 K:4  Average access time (AAT): 4.705109
+C1:15 B1:4 S1:2 C2:17 B2:12 S2:5 K:4  Average access time (AAT): 4.773400
+C1:15 B1:4 S1:2 C2:17 B2:13 S2:2 K:4  Average access time (AAT): 4.702135
+C1:15 B1:4 S1:2 C2:17 B2:13 S2:3 K:4  Average access time (AAT): 4.663739
+C1:15 B1:4 S1:2 C2:17 B2:13 S2:4 K:4  Average access time (AAT): 4.713086
+C1:15 B1:4 S1:2 C2:17 B2:14 S2:2 K:4  Average access time (AAT): 5.591524
+C1:15 B1:4 S1:2 C2:17 B2:14 S2:3 K:4  Average access time (AAT): 5.240047
+C1:15 B1:4 S1:2 C2:17 B2:15 S2:2 K:4  Average access time (AAT): 7.457047
+C1:15 B1:5 S1:0 C2:17 B2:10 S2:0 K:4  Average access time (AAT): 7.169829
+C1:15 B1:5 S1:0 C2:17 B2:10 S2:1 K:4  Average access time (AAT): 5.104793
+C1:15 B1:5 S1:0 C2:17 B2:10 S2:2 K:4  Average access time (AAT): 4.513430
+C1:15 B1:5 S1:0 C2:17 B2:10 S2:3 K:4  Average access time (AAT): 4.353800
+C1:15 B1:5 S1:0 C2:17 B2:10 S2:4 K:4  Average access time (AAT): 4.367660
+C1:15 B1:5 S1:0 C2:17 B2:10 S2:5 K:4  Average access time (AAT): 4.414423
+C1:15 B1:5 S1:0 C2:17 B2:10 S2:6 K:4  Average access time (AAT): 5.149167
+C1:15 B1:5 S1:0 C2:17 B2:10 S2:7 K:4  Average access time (AAT): 5.181971
+C1:15 B1:5 S1:0 C2:17 B2:11 S2:0 K:4  Average access time (AAT): 7.085078
+C1:15 B1:5 S1:0 C2:17 B2:11 S2:1 K:4  Average access time (AAT): 5.020042
+C1:15 B1:5 S1:0 C2:17 B2:11 S2:2 K:4  Average access time (AAT): 4.164455
+C1:15 B1:5 S1:0 C2:17 B2:11 S2:3 K:4  Average access time (AAT): 3.936026
+C1:15 B1:5 S1:0 C2:17 B2:11 S2:4 K:4  Average access time (AAT): 3.949886
+C1:15 B1:5 S1:0 C2:17 B2:11 S2:5 K:4  Average access time (AAT): 4.327678
+C1:15 B1:5 S1:0 C2:17 B2:11 S2:6 K:4  Average access time (AAT): 4.351509
+C1:15 B1:5 S1:0 C2:17 B2:12 S2:0 K:4  Average access time (AAT): 7.556694
+C1:15 B1:5 S1:0 C2:17 B2:12 S2:1 K:4  Average access time (AAT): 5.554473
+C1:15 B1:5 S1:0 C2:17 B2:12 S2:2 K:4  Average access time (AAT): 4.337945
+C1:15 B1:5 S1:0 C2:17 B2:12 S2:3 K:4  Average access time (AAT): 3.896143
+C1:15 B1:5 S1:0 C2:17 B2:12 S2:4 K:4  Average access time (AAT): 4.003728
+C1:15 B1:5 S1:0 C2:17 B2:12 S2:5 K:4  Average access time (AAT): 4.045506
+C1:15 B1:5 S1:0 C2:17 B2:13 S2:0 K:4  Average access time (AAT): 8.322445
+C1:15 B1:5 S1:0 C2:17 B2:13 S2:1 K:4  Average access time (AAT): 6.222512
+C1:15 B1:5 S1:0 C2:17 B2:13 S2:2 K:4  Average access time (AAT): 4.885338
+C1:15 B1:5 S1:0 C2:17 B2:13 S2:3 K:4  Average access time (AAT): 4.401659
+C1:15 B1:5 S1:0 C2:17 B2:13 S2:4 K:4  Average access time (AAT): 4.222087
+C1:15 B1:5 S1:0 C2:17 B2:14 S2:0 K:4  Average access time (AAT): 9.486029
+C1:15 B1:5 S1:0 C2:17 B2:14 S2:1 K:4  Average access time (AAT): 7.210610
+C1:15 B1:5 S1:0 C2:17 B2:14 S2:2 K:4  Average access time (AAT): 6.557429
+C1:15 B1:5 S1:0 C2:17 B2:14 S2:3 K:4  Average access time (AAT): 5.949116
+C1:15 B1:5 S1:0 C2:17 B2:15 S2:0 K:4  Average access time (AAT): 11.190026
+C1:15 B1:5 S1:0 C2:17 B2:15 S2:1 K:4  Average access time (AAT): 8.592553
+C1:15 B1:5 S1:0 C2:17 B2:15 S2:2 K:4  Average access time (AAT): 8.692161
+C1:15 B1:5 S1:1 C2:17 B2:10 S2:1 K:4  Average access time (AAT): 4.566960
+C1:15 B1:5 S1:1 C2:17 B2:10 S2:2 K:4  Average access time (AAT): 4.520271
+C1:15 B1:5 S1:1 C2:17 B2:10 S2:3 K:4  Average access time (AAT): 4.445664
+C1:15 B1:5 S1:1 C2:17 B2:10 S2:4 K:4  Average access time (AAT): 4.487714
+C1:15 B1:5 S1:1 C2:17 B2:10 S2:5 K:4  Average access time (AAT): 4.529764
+C1:15 B1:5 S1:1 C2:17 B2:10 S2:6 K:4  Average access time (AAT): 5.251817
+C1:15 B1:5 S1:1 C2:17 B2:10 S2:7 K:4  Average access time (AAT): 5.286888
+C1:15 B1:5 S1:1 C2:17 B2:11 S2:1 K:4  Average access time (AAT): 4.158160
+C1:15 B1:5 S1:1 C2:17 B2:11 S2:2 K:4  Average access time (AAT): 4.016749
+C1:15 B1:5 S1:1 C2:17 B2:11 S2:3 K:4  Average access time (AAT): 3.974048
+C1:15 B1:5 S1:1 C2:17 B2:11 S2:4 K:4  Average access time (AAT): 4.001142
+C1:15 B1:5 S1:1 C2:17 B2:11 S2:5 K:4  Average access time (AAT): 4.367241
+C1:15 B1:5 S1:1 C2:17 B2:11 S2:6 K:4  Average access time (AAT): 4.399320
+C1:15 B1:5 S1:1 C2:17 B2:12 S2:1 K:4  Average access time (AAT): 4.108307
+C1:15 B1:5 S1:1 C2:17 B2:12 S2:2 K:4  Average access time (AAT): 3.900092
+C1:15 B1:5 S1:1 C2:17 B2:12 S2:3 K:4  Average access time (AAT): 3.836452
+C1:15 B1:5 S1:1 C2:17 B2:12 S2:4 K:4  Average access time (AAT): 4.007125
+C1:15 B1:5 S1:1 C2:17 B2:12 S2:5 K:4  Average access time (AAT): 4.047181
+C1:15 B1:5 S1:1 C2:17 B2:13 S2:1 K:4  Average access time (AAT): 4.453294
+C1:15 B1:5 S1:1 C2:17 B2:13 S2:2 K:4  Average access time (AAT): 4.084550
+C1:15 B1:5 S1:1 C2:17 B2:13 S2:3 K:4  Average access time (AAT): 4.040852
+C1:15 B1:5 S1:1 C2:17 B2:13 S2:4 K:4  Average access time (AAT): 4.049999
+C1:15 B1:5 S1:1 C2:17 B2:14 S2:1 K:4  Average access time (AAT): 5.072476
+C1:15 B1:5 S1:1 C2:17 B2:14 S2:2 K:4  Average access time (AAT): 4.831358
+C1:15 B1:5 S1:1 C2:17 B2:14 S2:3 K:4  Average access time (AAT): 4.599213
+C1:15 B1:5 S1:1 C2:17 B2:15 S2:1 K:4  Average access time (AAT): 6.321808
+C1:15 B1:5 S1:1 C2:17 B2:15 S2:2 K:4  Average access time (AAT): 6.252186
+C1:15 B1:5 S1:2 C2:17 B2:10 S2:2 K:4  Average access time (AAT): 4.661485
+C1:15 B1:5 S1:2 C2:17 B2:10 S2:3 K:4  Average access time (AAT): 4.630586
+C1:15 B1:5 S1:2 C2:17 B2:10 S2:4 K:4  Average access time (AAT): 4.673471
+C1:15 B1:5 S1:2 C2:17 B2:10 S2:5 K:4  Average access time (AAT): 4.704390
+C1:15 B1:5 S1:2 C2:17 B2:10 S2:6 K:4  Average access time (AAT): 5.433261
+C1:15 B1:5 S1:2 C2:17 B2:10 S2:7 K:4  Average access time (AAT): 5.469166
+C1:15 B1:5 S1:2 C2:17 B2:11 S2:2 K:4  Average access time (AAT): 4.147993
+C1:15 B1:5 S1:2 C2:17 B2:11 S2:3 K:4  Average access time (AAT): 4.136038
+C1:15 B1:5 S1:2 C2:17 B2:11 S2:4 K:4  Average access time (AAT): 4.157984
+C1:15 B1:5 S1:2 C2:17 B2:11 S2:5 K:4  Average access time (AAT): 4.528906
+C1:15 B1:5 S1:2 C2:17 B2:11 S2:6 K:4  Average access time (AAT): 4.567802
+C1:15 B1:5 S1:2 C2:17 B2:12 S2:2 K:4  Average access time (AAT): 4.019370
+C1:15 B1:5 S1:2 C2:17 B2:12 S2:3 K:4  Average access time (AAT): 3.999439
+C1:15 B1:5 S1:2 C2:17 B2:12 S2:4 K:4  Average access time (AAT): 4.165961
+C1:15 B1:5 S1:2 C2:17 B2:12 S2:5 K:4  Average access time (AAT): 4.193889
+C1:15 B1:5 S1:2 C2:17 B2:13 S2:2 K:4  Average access time (AAT): 4.207817
+C1:15 B1:5 S1:2 C2:17 B2:13 S2:3 K:4  Average access time (AAT): 4.166947
+C1:15 B1:5 S1:2 C2:17 B2:13 S2:4 K:4  Average access time (AAT): 4.194876
+C1:15 B1:5 S1:2 C2:17 B2:14 S2:2 K:4  Average access time (AAT): 4.894800
+C1:15 B1:5 S1:2 C2:17 B2:14 S2:3 K:4  Average access time (AAT): 4.674457
+C1:15 B1:5 S1:2 C2:17 B2:15 S2:2 K:4  Average access time (AAT): 6.253810
+C1:15 B1:6 S1:0 C2:17 B2:10 S2:0 K:4  Average access time (AAT): 6.414184
+C1:15 B1:6 S1:0 C2:17 B2:10 S2:1 K:4  Average access time (AAT): 5.004338
+C1:15 B1:6 S1:0 C2:17 B2:10 S2:2 K:4  Average access time (AAT): 4.362237
+C1:15 B1:6 S1:0 C2:17 B2:10 S2:3 K:4  Average access time (AAT): 4.113981
+C1:15 B1:6 S1:0 C2:17 B2:10 S2:4 K:4  Average access time (AAT): 4.113995
+C1:15 B1:6 S1:0 C2:17 B2:10 S2:5 K:4  Average access time (AAT): 4.150901
+C1:15 B1:6 S1:0 C2:17 B2:10 S2:6 K:4  Average access time (AAT): 4.852854
+C1:15 B1:6 S1:0 C2:17 B2:10 S2:7 K:4  Average access time (AAT): 4.889760
+C1:15 B1:6 S1:0 C2:17 B2:11 S2:0 K:4  Average access time (AAT): 6.283567
+C1:15 B1:6 S1:0 C2:17 B2:11 S2:1 K:4  Average access time (AAT): 4.924572
+C1:15 B1:6 S1:0 C2:17 B2:11 S2:2 K:4  Average access time (AAT): 4.039186
+C1:15 B1:6 S1:0 C2:17 B2:11 S2:3 K:4  Average access time (AAT): 3.730108
+C1:15 B1:6 S1:0 C2:17 B2:11 S2:4 K:4  Average access time (AAT): 3.702204
+C1:15 B1:6 S1:0 C2:17 B2:11 S2:5 K:4  Average access time (AAT): 4.057176
+C1:15 B1:6 S1:0 C2:17 B2:11 S2:6 K:4  Average access time (AAT): 4.070152
+C1:15 B1:6 S1:0 C2:17 B2:12 S2:0 K:4  Average access time (AAT): 6.666443
+C1:15 B1:6 S1:0 C2:17 B2:12 S2:1 K:4  Average access time (AAT): 5.436070
+C1:15 B1:6 S1:0 C2:17 B2:12 S2:2 K:4  Average access time (AAT): 4.287457
+C1:15 B1:6 S1:0 C2:17 B2:12 S2:3 K:4  Average access time (AAT): 3.738084
+C1:15 B1:6 S1:0 C2:17 B2:12 S2:4 K:4  Average access time (AAT): 3.812879
+C1:15 B1:6 S1:0 C2:17 B2:12 S2:5 K:4  Average access time (AAT): 3.826852
+C1:15 B1:6 S1:0 C2:17 B2:13 S2:0 K:4  Average access time (AAT): 7.172956
+C1:15 B1:6 S1:0 C2:17 B2:13 S2:1 K:4  Average access time (AAT): 5.931615
+C1:15 B1:6 S1:0 C2:17 B2:13 S2:2 K:4  Average access time (AAT): 4.763060
+C1:15 B1:6 S1:0 C2:17 B2:13 S2:3 K:4  Average access time (AAT): 4.243600
+C1:15 B1:6 S1:0 C2:17 B2:13 S2:4 K:4  Average access time (AAT): 4.022264
+C1:15 B1:6 S1:0 C2:17 B2:14 S2:0 K:4  Average access time (AAT): 8.004515
+C1:15 B1:6 S1:0 C2:17 B2:14 S2:1 K:4  Average access time (AAT): 6.787103
+C1:15 B1:6 S1:0 C2:17 B2:14 S2:2 K:4  Average access time (AAT): 6.104123
+C1:15 B1:6 S1:0 C2:17 B2:14 S2:3 K:4  Average access time (AAT): 5.457037
+C1:15 B1:6 S1:0 C2:17 B2:15 S2:0 K:4  Average access time (AAT): 9.237894
+C1:15 B1:6 S1:0 C2:17 B2:15 S2:1 K:4  Average access time (AAT): 7.804118
+C1:15 B1:6 S1:0 C2:17 B2:15 S2:2 K:4  Average access time (AAT): 7.855980
+C1:15 B1:6 S1:1 C2:17 B2:10 S2:1 K:4  Average access time (AAT): 4.426855
+C1:15 B1:6 S1:1 C2:17 B2:10 S2:2 K:4  Average access time (AAT): 4.312136
+C1:15 B1:6 S1:1 C2:17 B2:10 S2:3 K:4  Average access time (AAT): 4.230321
+C1:15 B1:6 S1:1 C2:17 B2:10 S2:4 K:4  Average access time (AAT): 4.244225
+C1:15 B1:6 S1:1 C2:17 B2:10 S2:5 K:4  Average access time (AAT): 4.265109
+C1:15 B1:6 S1:1 C2:17 B2:10 S2:6 K:4  Average access time (AAT): 4.961010
+C1:15 B1:6 S1:1 C2:17 B2:10 S2:7 K:4  Average access time (AAT): 4.993859
+C1:15 B1:6 S1:1 C2:17 B2:11 S2:1 K:4  Average access time (AAT): 4.013070
+C1:15 B1:6 S1:1 C2:17 B2:11 S2:2 K:4  Average access time (AAT): 3.859465
+C1:15 B1:6 S1:1 C2:17 B2:11 S2:3 K:4  Average access time (AAT): 3.797592
+C1:15 B1:6 S1:1 C2:17 B2:11 S2:4 K:4  Average access time (AAT): 3.777595
+C1:15 B1:6 S1:1 C2:17 B2:11 S2:5 K:4  Average access time (AAT): 4.130504
+C1:15 B1:6 S1:1 C2:17 B2:11 S2:6 K:4  Average access time (AAT): 4.144408
+C1:15 B1:6 S1:1 C2:17 B2:12 S2:1 K:4  Average access time (AAT): 3.947263
+C1:15 B1:6 S1:1 C2:17 B2:12 S2:2 K:4  Average access time (AAT): 3.761752
+C1:15 B1:6 S1:1 C2:17 B2:12 S2:3 K:4  Average access time (AAT): 3.693896
+C1:15 B1:6 S1:1 C2:17 B2:12 S2:4 K:4  Average access time (AAT): 3.832434
+C1:15 B1:6 S1:1 C2:17 B2:12 S2:5 K:4  Average access time (AAT): 3.855312
+C1:15 B1:6 S1:1 C2:17 B2:13 S2:1 K:4  Average access time (AAT): 4.241399
+C1:15 B1:6 S1:1 C2:17 B2:13 S2:2 K:4  Average access time (AAT): 3.963161
+C1:15 B1:6 S1:1 C2:17 B2:13 S2:3 K:4  Average access time (AAT): 3.937182
+C1:15 B1:6 S1:1 C2:17 B2:13 S2:4 K:4  Average access time (AAT): 3.892259
+C1:15 B1:6 S1:1 C2:17 B2:14 S2:1 K:4  Average access time (AAT): 4.745918
+C1:15 B1:6 S1:1 C2:17 B2:14 S2:2 K:4  Average access time (AAT): 4.593311
+C1:15 B1:6 S1:1 C2:17 B2:14 S2:3 K:4  Average access time (AAT): 4.502522
+C1:15 B1:6 S1:1 C2:17 B2:15 S2:1 K:4  Average access time (AAT): 5.570497
+C1:15 B1:6 S1:1 C2:17 B2:15 S2:2 K:4  Average access time (AAT): 5.476717
+C1:15 B1:6 S1:2 C2:17 B2:10 S2:2 K:4  Average access time (AAT): 4.444975
+C1:15 B1:6 S1:2 C2:17 B2:10 S2:3 K:4  Average access time (AAT): 4.392710
+C1:15 B1:6 S1:2 C2:17 B2:10 S2:4 K:4  Average access time (AAT): 4.417220
+C1:15 B1:6 S1:2 C2:17 B2:10 S2:5 K:4  Average access time (AAT): 4.424779
+C1:15 B1:6 S1:2 C2:17 B2:10 S2:6 K:4  Average access time (AAT): 5.121316
+C1:15 B1:6 S1:2 C2:17 B2:10 S2:7 K:4  Average access time (AAT): 5.148817
+C1:15 B1:6 S1:2 C2:17 B2:11 S2:2 K:4  Average access time (AAT): 3.939459
+C1:15 B1:6 S1:2 C2:17 B2:11 S2:3 K:4  Average access time (AAT): 3.896168
+C1:15 B1:6 S1:2 C2:17 B2:11 S2:4 K:4  Average access time (AAT): 3.901733
+C1:15 B1:6 S1:2 C2:17 B2:11 S2:5 K:4  Average access time (AAT): 4.261259
+C1:15 B1:6 S1:2 C2:17 B2:11 S2:6 K:4  Average access time (AAT): 4.278789
+C1:15 B1:6 S1:2 C2:17 B2:12 S2:2 K:4  Average access time (AAT): 3.791893
+C1:15 B1:6 S1:2 C2:17 B2:12 S2:3 K:4  Average access time (AAT): 3.754584
+C1:15 B1:6 S1:2 C2:17 B2:12 S2:4 K:4  Average access time (AAT): 3.922672
+C1:15 B1:6 S1:2 C2:17 B2:12 S2:5 K:4  Average access time (AAT): 3.935217
+C1:15 B1:6 S1:2 C2:17 B2:13 S2:2 K:4  Average access time (AAT): 3.955413
+C1:15 B1:6 S1:2 C2:17 B2:13 S2:3 K:4  Average access time (AAT): 3.916110
+C1:15 B1:6 S1:2 C2:17 B2:13 S2:4 K:4  Average access time (AAT): 3.913698
+C1:15 B1:6 S1:2 C2:17 B2:14 S2:2 K:4  Average access time (AAT): 4.513773
+C1:15 B1:6 S1:2 C2:17 B2:14 S2:3 K:4  Average access time (AAT): 4.410658
+C1:15 B1:6 S1:2 C2:17 B2:15 S2:2 K:4  Average access time (AAT): 5.293484
+C1:15 B1:7 S1:0 C2:17 B2:10 S2:0 K:4  Average access time (AAT): 6.304769
+C1:15 B1:7 S1:0 C2:17 B2:10 S2:1 K:4  Average access time (AAT): 5.107824
+C1:15 B1:7 S1:0 C2:17 B2:10 S2:2 K:4  Average access time (AAT): 4.321673
+C1:15 B1:7 S1:0 C2:17 B2:10 S2:3 K:4  Average access time (AAT): 4.003149
+C1:15 B1:7 S1:0 C2:17 B2:10 S2:4 K:4  Average access time (AAT): 3.990726
+C1:15 B1:7 S1:0 C2:17 B2:10 S2:5 K:4  Average access time (AAT): 4.010210
+C1:15 B1:7 S1:0 C2:17 B2:10 S2:6 K:4  Average access time (AAT): 4.710694
+C1:15 B1:7 S1:0 C2:17 B2:10 S2:7 K:4  Average access time (AAT): 4.728184
+C1:15 B1:7 S1:0 C2:17 B2:11 S2:0 K:4  Average access time (AAT): 6.112334
+C1:15 B1:7 S1:0 C2:17 B2:11 S2:1 K:4  Average access time (AAT): 4.998146
+C1:15 B1:7 S1:0 C2:17 B2:11 S2:2 K:4  Average access time (AAT): 4.023548
+C1:15 B1:7 S1:0 C2:17 B2:11 S2:3 K:4  Average access time (AAT): 3.630244
+C1:15 B1:7 S1:0 C2:17 B2:11 S2:4 K:4  Average access time (AAT): 3.604859
+C1:15 B1:7 S1:0 C2:17 B2:11 S2:5 K:4  Average access time (AAT): 3.934433
+C1:15 B1:7 S1:0 C2:17 B2:11 S2:6 K:4  Average access time (AAT): 3.941951
+C1:15 B1:7 S1:0 C2:17 B2:12 S2:0 K:4  Average access time (AAT): 6.419433
+C1:15 B1:7 S1:0 C2:17 B2:12 S2:1 K:4  Average access time (AAT): 5.453808
+C1:15 B1:7 S1:0 C2:17 B2:12 S2:2 K:4  Average access time (AAT): 4.301732
+C1:15 B1:7 S1:0 C2:17 B2:12 S2:3 K:4  Average access time (AAT): 3.661153
+C1:15 B1:7 S1:0 C2:17 B2:12 S2:4 K:4  Average access time (AAT): 3.706561
+C1:15 B1:7 S1:0 C2:17 B2:12 S2:5 K:4  Average access time (AAT): 3.726044
+C1:15 B1:7 S1:0 C2:17 B2:13 S2:0 K:4  Average access time (AAT): 6.738496
+C1:15 B1:7 S1:0 C2:17 B2:13 S2:1 K:4  Average access time (AAT): 5.854632
+C1:15 B1:7 S1:0 C2:17 B2:13 S2:2 K:4  Average access time (AAT): 4.736455
+C1:15 B1:7 S1:0 C2:17 B2:13 S2:3 K:4  Average access time (AAT): 4.113824
+C1:15 B1:7 S1:0 C2:17 B2:13 S2:4 K:4  Average access time (AAT): 3.947852
+C1:15 B1:7 S1:0 C2:17 B2:14 S2:0 K:4  Average access time (AAT): 7.388587
+C1:15 B1:7 S1:0 C2:17 B2:14 S2:1 K:4  Average access time (AAT): 6.602436
+C1:15 B1:7 S1:0 C2:17 B2:14 S2:2 K:4  Average access time (AAT): 5.790361
+C1:15 B1:7 S1:0 C2:17 B2:14 S2:3 K:4  Average access time (AAT): 5.015178
+C1:15 B1:7 S1:0 C2:17 B2:15 S2:0 K:4  Average access time (AAT): 8.387654
+C1:15 B1:7 S1:0 C2:17 B2:15 S2:1 K:4  Average access time (AAT): 7.428012
+C1:15 B1:7 S1:0 C2:17 B2:15 S2:2 K:4  Average access time (AAT): 7.315882
+C1:15 B1:7 S1:1 C2:17 B2:10 S2:1 K:4  Average access time (AAT): 4.396892
+C1:15 B1:7 S1:1 C2:17 B2:10 S2:2 K:4  Average access time (AAT): 4.235126
+C1:15 B1:7 S1:1 C2:17 B2:10 S2:3 K:4  Average access time (AAT): 4.115236
+C1:15 B1:7 S1:1 C2:17 B2:10 S2:4 K:4  Average access time (AAT): 4.113998
+C1:15 B1:7 S1:1 C2:17 B2:10 S2:5 K:4  Average access time (AAT): 4.130707
+C1:15 B1:7 S1:1 C2:17 B2:10 S2:6 K:4  Average access time (AAT): 4.824429
+C1:15 B1:7 S1:1 C2:17 B2:10 S2:7 K:4  Average access time (AAT): 4.832165
+C1:15 B1:7 S1:1 C2:17 B2:11 S2:1 K:4  Average access time (AAT): 3.976128
+C1:15 B1:7 S1:1 C2:17 B2:11 S2:2 K:4  Average access time (AAT): 3.792425
+C1:15 B1:7 S1:1 C2:17 B2:11 S2:3 K:4  Average access time (AAT): 3.688489
+C1:15 B1:7 S1:1 C2:17 B2:11 S2:4 K:4  Average access time (AAT): 3.664318
+C1:15 B1:7 S1:1 C2:17 B2:11 S2:5 K:4  Average access time (AAT): 4.012056
+C1:15 B1:7 S1:1 C2:17 B2:11 S2:6 K:4  Average access time (AAT): 4.016800
+C1:15 B1:7 S1:1 C2:17 B2:12 S2:1 K:4  Average access time (AAT): 3.894368
+C1:15 B1:7 S1:1 C2:17 B2:12 S2:2 K:4  Average access time (AAT): 3.701692
+C1:15 B1:7 S1:1 C2:17 B2:12 S2:3 K:4  Average access time (AAT): 3.616700
+C1:15 B1:7 S1:1 C2:17 B2:12 S2:4 K:4  Average access time (AAT): 3.714172
+C1:15 B1:7 S1:1 C2:17 B2:12 S2:5 K:4  Average access time (AAT): 3.737861
+C1:15 B1:7 S1:1 C2:17 B2:13 S2:1 K:4  Average access time (AAT): 4.076832
+C1:15 B1:7 S1:1 C2:17 B2:13 S2:2 K:4  Average access time (AAT): 3.818349
+C1:15 B1:7 S1:1 C2:17 B2:13 S2:3 K:4  Average access time (AAT): 3.828079
+C1:15 B1:7 S1:1 C2:17 B2:13 S2:4 K:4  Average access time (AAT): 3.777985
+C1:15 B1:7 S1:1 C2:17 B2:14 S2:1 K:4  Average access time (AAT): 4.442758
+C1:15 B1:7 S1:1 C2:17 B2:14 S2:2 K:4  Average access time (AAT): 4.307912
+C1:15 B1:7 S1:1 C2:17 B2:14 S2:3 K:4  Average access time (AAT): 4.279753
+C1:15 B1:7 S1:1 C2:17 B2:15 S2:1 K:4  Average access time (AAT): 5.037013
+C1:15 B1:7 S1:1 C2:17 B2:15 S2:2 K:4  Average access time (AAT): 4.892197
+C1:15 B1:7 S1:2 C2:17 B2:10 S2:2 K:4  Average access time (AAT): 4.335985
+C1:15 B1:7 S1:2 C2:17 B2:10 S2:3 K:4  Average access time (AAT): 4.277379
+C1:15 B1:7 S1:2 C2:17 B2:10 S2:4 K:4  Average access time (AAT): 4.276604
+C1:15 B1:7 S1:2 C2:17 B2:10 S2:5 K:4  Average access time (AAT): 4.278820
+C1:15 B1:7 S1:2 C2:17 B2:10 S2:6 K:4  Average access time (AAT): 4.971010
+C1:15 B1:7 S1:2 C2:17 B2:10 S2:7 K:4  Average access time (AAT): 4.986188
+C1:15 B1:7 S1:2 C2:17 B2:11 S2:2 K:4  Average access time (AAT): 3.842434
+C1:15 B1:7 S1:2 C2:17 B2:11 S2:3 K:4  Average access time (AAT): 3.791805
+C1:15 B1:7 S1:2 C2:17 B2:11 S2:4 K:4  Average access time (AAT): 3.784050
+C1:15 B1:7 S1:2 C2:17 B2:11 S2:5 K:4  Average access time (AAT): 4.136238
+C1:15 B1:7 S1:2 C2:17 B2:11 S2:6 K:4  Average access time (AAT): 4.144437
+C1:15 B1:7 S1:2 C2:17 B2:12 S2:2 K:4  Average access time (AAT): 3.682902
+C1:15 B1:7 S1:2 C2:17 B2:12 S2:3 K:4  Average access time (AAT): 3.638256
+C1:15 B1:7 S1:2 C2:17 B2:12 S2:4 K:4  Average access time (AAT): 3.777071
+C1:15 B1:7 S1:2 C2:17 B2:12 S2:5 K:4  Average access time (AAT): 3.793245
+C1:15 B1:7 S1:2 C2:17 B2:13 S2:2 K:4  Average access time (AAT): 3.812522
+C1:15 B1:7 S1:2 C2:17 B2:13 S2:3 K:4  Average access time (AAT): 3.781834
+C1:15 B1:7 S1:2 C2:17 B2:13 S2:4 K:4  Average access time (AAT): 3.765106
+C1:15 B1:7 S1:2 C2:17 B2:14 S2:2 K:4  Average access time (AAT): 4.161497
+C1:15 B1:7 S1:2 C2:17 B2:14 S2:3 K:4  Average access time (AAT): 4.131807
+C1:15 B1:7 S1:2 C2:17 B2:15 S2:2 K:4  Average access time (AAT): 4.581265
+C1:15 B1:8 S1:0 C2:17 B2:10 S2:0 K:4  Average access time (AAT): 6.749623
+C1:15 B1:8 S1:0 C2:17 B2:10 S2:1 K:4  Average access time (AAT): 5.254769
+C1:15 B1:8 S1:0 C2:17 B2:10 S2:2 K:4  Average access time (AAT): 4.419977
+C1:15 B1:8 S1:0 C2:17 B2:10 S2:3 K:4  Average access time (AAT): 3.980025
+C1:15 B1:8 S1:0 C2:17 B2:10 S2:4 K:4  Average access time (AAT): 3.966821
+C1:15 B1:8 S1:0 C2:17 B2:10 S2:5 K:4  Average access time (AAT): 3.997487
+C1:15 B1:8 S1:0 C2:17 B2:10 S2:6 K:4  Average access time (AAT): 4.717131
+C1:15 B1:8 S1:0 C2:17 B2:10 S2:7 K:4  Average access time (AAT): 4.783693
+C1:15 B1:8 S1:0 C2:17 B2:11 S2:0 K:4  Average access time (AAT): 6.561176
+C1:15 B1:8 S1:0 C2:17 B2:11 S2:1 K:4  Average access time (AAT): 5.240810
+C1:15 B1:8 S1:0 C2:17 B2:11 S2:2 K:4  Average access time (AAT): 4.257454
+C1:15 B1:8 S1:0 C2:17 B2:11 S2:3 K:4  Average access time (AAT): 3.638029
+C1:15 B1:8 S1:0 C2:17 B2:11 S2:4 K:4  Average access time (AAT): 3.586936
+C1:15 B1:8 S1:0 C2:17 B2:11 S2:5 K:4  Average access time (AAT): 3.929686
+C1:15 B1:8 S1:0 C2:17 B2:11 S2:6 K:4  Average access time (AAT): 3.962347
+C1:15 B1:8 S1:0 C2:17 B2:12 S2:0 K:4  Average access time (AAT): 6.876251
+C1:15 B1:8 S1:0 C2:17 B2:12 S2:1 K:4  Average access time (AAT): 5.842045
+C1:15 B1:8 S1:0 C2:17 B2:12 S2:2 K:4  Average access time (AAT): 5.066080
+C1:15 B1:8 S1:0 C2:17 B2:12 S2:3 K:4  Average access time (AAT): 3.713807
+C1:15 B1:8 S1:0 C2:17 B2:12 S2:4 K:4  Average access time (AAT): 3.745470
+C1:15 B1:8 S1:0 C2:17 B2:12 S2:5 K:4  Average access time (AAT): 3.765169
+C1:15 B1:8 S1:0 C2:17 B2:13 S2:0 K:4  Average access time (AAT): 7.186341
+C1:15 B1:8 S1:0 C2:17 B2:13 S2:1 K:4  Average access time (AAT): 6.280756
+C1:15 B1:8 S1:0 C2:17 B2:13 S2:2 K:4  Average access time (AAT): 5.637402
+C1:15 B1:8 S1:0 C2:17 B2:13 S2:3 K:4  Average access time (AAT): 4.285129
+C1:15 B1:8 S1:0 C2:17 B2:13 S2:4 K:4  Average access time (AAT): 4.019665
+C1:15 B1:8 S1:0 C2:17 B2:14 S2:0 K:4  Average access time (AAT): 7.806520
+C1:15 B1:8 S1:0 C2:17 B2:14 S2:1 K:4  Average access time (AAT): 7.109324
+C1:15 B1:8 S1:0 C2:17 B2:14 S2:2 K:4  Average access time (AAT): 6.662393
+C1:15 B1:8 S1:0 C2:17 B2:14 S2:3 K:4  Average access time (AAT): 5.485605
+C1:15 B1:8 S1:0 C2:17 B2:15 S2:0 K:4  Average access time (AAT): 9.157553
+C1:15 B1:8 S1:0 C2:17 B2:15 S2:1 K:4  Average access time (AAT): 8.540123
+C1:15 B1:8 S1:0 C2:17 B2:15 S2:2 K:4  Average access time (AAT): 8.360407
+C1:15 B1:8 S1:1 C2:17 B2:10 S2:1 K:4  Average access time (AAT): 4.524360
+C1:15 B1:8 S1:1 C2:17 B2:10 S2:2 K:4  Average access time (AAT): 4.323693
+C1:15 B1:8 S1:1 C2:17 B2:10 S2:3 K:4  Average access time (AAT): 4.081149
+C1:15 B1:8 S1:1 C2:17 B2:10 S2:4 K:4  Average access time (AAT): 4.073914
+C1:15 B1:8 S1:1 C2:17 B2:10 S2:5 K:4  Average access time (AAT): 4.096592
+C1:15 B1:8 S1:1 C2:17 B2:10 S2:6 K:4  Average access time (AAT): 4.811237
+C1:15 B1:8 S1:1 C2:17 B2:10 S2:7 K:4  Average access time (AAT): 4.874795
+C1:15 B1:8 S1:1 C2:17 B2:11 S2:1 K:4  Average access time (AAT): 4.135501
+C1:15 B1:8 S1:1 C2:17 B2:11 S2:2 K:4  Average access time (AAT): 3.920876
+C1:15 B1:8 S1:1 C2:17 B2:11 S2:3 K:4  Average access time (AAT): 3.686308
+C1:15 B1:8 S1:1 C2:17 B2:11 S2:4 K:4  Average access time (AAT): 3.652152
+C1:15 B1:8 S1:1 C2:17 B2:11 S2:5 K:4  Average access time (AAT): 3.987911
+C1:15 B1:8 S1:1 C2:17 B2:11 S2:6 K:4  Average access time (AAT): 4.012582
+C1:15 B1:8 S1:1 C2:17 B2:12 S2:1 K:4  Average access time (AAT): 4.106586
+C1:15 B1:8 S1:1 C2:17 B2:12 S2:2 K:4  Average access time (AAT): 3.912899
+C1:15 B1:8 S1:1 C2:17 B2:12 S2:3 K:4  Average access time (AAT): 3.675340
+C1:15 B1:8 S1:1 C2:17 B2:12 S2:4 K:4  Average access time (AAT): 3.740892
+C1:15 B1:8 S1:1 C2:17 B2:12 S2:5 K:4  Average access time (AAT): 3.758584
+C1:15 B1:8 S1:1 C2:17 B2:13 S2:1 K:4  Average access time (AAT): 4.346881
+C1:15 B1:8 S1:1 C2:17 B2:13 S2:2 K:4  Average access time (AAT): 4.103340
+C1:15 B1:8 S1:1 C2:17 B2:13 S2:3 K:4  Average access time (AAT): 3.993407
+C1:15 B1:8 S1:1 C2:17 B2:13 S2:4 K:4  Average access time (AAT): 3.894441
+C1:15 B1:8 S1:1 C2:17 B2:14 S2:1 K:4  Average access time (AAT): 4.664947
+C1:15 B1:8 S1:1 C2:17 B2:14 S2:2 K:4  Average access time (AAT): 4.553020
+C1:15 B1:8 S1:1 C2:17 B2:14 S2:3 K:4  Average access time (AAT): 4.420154
+C1:15 B1:8 S1:1 C2:17 B2:15 S2:1 K:4  Average access time (AAT): 5.245243
+C1:15 B1:8 S1:1 C2:17 B2:15 S2:2 K:4  Average access time (AAT): 5.148272
+C1:15 B1:8 S1:2 C2:17 B2:10 S2:2 K:4  Average access time (AAT): 4.305125
+C1:15 B1:8 S1:2 C2:17 B2:10 S2:3 K:4  Average access time (AAT): 4.207056
+C1:15 B1:8 S1:2 C2:17 B2:10 S2:4 K:4  Average access time (AAT): 4.214677
+C1:15 B1:8 S1:2 C2:17 B2:10 S2:5 K:4  Average access time (AAT): 4.235260
+C1:15 B1:8 S1:2 C2:17 B2:10 S2:6 K:4  Average access time (AAT): 4.941828
+C1:15 B1:8 S1:2 C2:17 B2:10 S2:7 K:4  Average access time (AAT): 5.010271
+C1:15 B1:8 S1:2 C2:17 B2:11 S2:2 K:4  Average access time (AAT): 3.831515
+C1:15 B1:8 S1:2 C2:17 B2:11 S2:3 K:4  Average access time (AAT): 3.758373
+C1:15 B1:8 S1:2 C2:17 B2:11 S2:4 K:4  Average access time (AAT): 3.741067
+C1:15 B1:8 S1:2 C2:17 B2:11 S2:5 K:4  Average access time (AAT): 4.096667
+C1:15 B1:8 S1:2 C2:17 B2:11 S2:6 K:4  Average access time (AAT): 4.132205
+C1:15 B1:8 S1:2 C2:17 B2:12 S2:2 K:4  Average access time (AAT): 3.670987
+C1:15 B1:8 S1:2 C2:17 B2:12 S2:3 K:4  Average access time (AAT): 3.612801
+C1:15 B1:8 S1:2 C2:17 B2:12 S2:4 K:4  Average access time (AAT): 3.773971
+C1:15 B1:8 S1:2 C2:17 B2:12 S2:5 K:4  Average access time (AAT): 3.771621
+C1:15 B1:8 S1:2 C2:17 B2:13 S2:2 K:4  Average access time (AAT): 3.767703
+C1:15 B1:8 S1:2 C2:17 B2:13 S2:3 K:4  Average access time (AAT): 3.785294
+C1:15 B1:8 S1:2 C2:17 B2:13 S2:4 K:4  Average access time (AAT): 3.758018
+C1:15 B1:8 S1:2 C2:17 B2:14 S2:2 K:4  Average access time (AAT): 4.038907
+C1:15 B1:8 S1:2 C2:17 B2:14 S2:3 K:4  Average access time (AAT): 3.984709
+C1:15 B1:8 S1:2 C2:17 B2:15 S2:2 K:4  Average access time (AAT): 4.271224
+C1:15 B1:9 S1:0 C2:17 B2:10 S2:0 K:4  Average access time (AAT): 9.322254
+C1:15 B1:9 S1:0 C2:17 B2:10 S2:1 K:4  Average access time (AAT): 5.945543
+C1:15 B1:9 S1:0 C2:17 B2:10 S2:2 K:4  Average access time (AAT): 4.521100
+C1:15 B1:9 S1:0 C2:17 B2:10 S2:3 K:4  Average access time (AAT): 3.993026
+C1:15 B1:9 S1:0 C2:17 B2:10 S2:4 K:4  Average access time (AAT): 3.987418
+C1:15 B1:9 S1:0 C2:17 B2:10 S2:5 K:4  Average access time (AAT): 4.011722
+C1:15 B1:9 S1:0 C2:17 B2:10 S2:6 K:4  Average access time (AAT): 4.743947
+C1:15 B1:9 S1:0 C2:17 B2:10 S2:7 K:4  Average access time (AAT): 4.809131
+C1:15 B1:9 S1:0 C2:17 B2:11 S2:0 K:4  Average access time (AAT): 9.128822
+C1:15 B1:9 S1:0 C2:17 B2:11 S2:1 K:4  Average access time (AAT): 6.130002
+C1:15 B1:9 S1:0 C2:17 B2:11 S2:2 K:4  Average access time (AAT): 4.562977
+C1:15 B1:9 S1:0 C2:17 B2:11 S2:3 K:4  Average access time (AAT): 3.640062
+C1:15 B1:9 S1:0 C2:17 B2:11 S2:4 K:4  Average access time (AAT): 3.600554
+C1:15 B1:9 S1:0 C2:17 B2:11 S2:5 K:4  Average access time (AAT): 3.946912
+C1:15 B1:9 S1:0 C2:17 B2:11 S2:6 K:4  Average access time (AAT): 3.989163
+C1:15 B1:9 S1:0 C2:17 B2:12 S2:0 K:4  Average access time (AAT): 9.571522
+C1:15 B1:9 S1:0 C2:17 B2:12 S2:1 K:4  Average access time (AAT): 6.924668
+C1:15 B1:9 S1:0 C2:17 B2:12 S2:2 K:4  Average access time (AAT): 5.783394
+C1:15 B1:9 S1:0 C2:17 B2:12 S2:3 K:4  Average access time (AAT): 3.811559
+C1:15 B1:9 S1:0 C2:17 B2:12 S2:4 K:4  Average access time (AAT): 3.815921
+C1:15 B1:9 S1:0 C2:17 B2:12 S2:5 K:4  Average access time (AAT): 3.822278
+C1:15 B1:9 S1:0 C2:17 B2:13 S2:0 K:4  Average access time (AAT): 9.699147
+C1:15 B1:9 S1:0 C2:17 B2:13 S2:1 K:4  Average access time (AAT): 7.417222
+C1:15 B1:9 S1:0 C2:17 B2:13 S2:2 K:4  Average access time (AAT): 6.442459
+C1:15 B1:9 S1:0 C2:17 B2:13 S2:3 K:4  Average access time (AAT): 4.576314
+C1:15 B1:9 S1:0 C2:17 B2:13 S2:4 K:4  Average access time (AAT): 4.139970
+C1:15 B1:9 S1:0 C2:17 B2:14 S2:0 K:4  Average access time (AAT): 10.301379
+C1:15 B1:9 S1:0 C2:17 B2:14 S2:1 K:4  Average access time (AAT): 8.344500
+C1:15 B1:9 S1:0 C2:17 B2:14 S2:2 K:4  Average access time (AAT): 7.561175
+C1:15 B1:9 S1:0 C2:17 B2:14 S2:3 K:4  Average access time (AAT): 6.320194
+C1:15 B1:9 S1:0 C2:17 B2:15 S2:0 K:4  Average access time (AAT): 11.874760
+C1:15 B1:9 S1:0 C2:17 B2:15 S2:1 K:4  Average access time (AAT): 10.090374
+C1:15 B1:9 S1:0 C2:17 B2:15 S2:2 K:4  Average access time (AAT): 9.423706
+C1:15 B1:9 S1:1 C2:17 B2:10 S2:1 K:4  Average access time (AAT): 5.019180
+C1:15 B1:9 S1:1 C2:17 B2:10 S2:2 K:4  Average access time (AAT): 4.414996
+C1:15 B1:9 S1:1 C2:17 B2:10 S2:3 K:4  Average access time (AAT): 4.069053
+C1:15 B1:9 S1:1 C2:17 B2:10 S2:4 K:4  Average access time (AAT): 4.061118
+C1:15 B1:9 S1:1 C2:17 B2:10 S2:5 K:4  Average access time (AAT): 4.078110
+C1:15 B1:9 S1:1 C2:17 B2:10 S2:6 K:4  Average access time (AAT): 4.796044
+C1:15 B1:9 S1:1 C2:17 B2:10 S2:7 K:4  Average access time (AAT): 4.851921
+C1:15 B1:9 S1:1 C2:17 B2:11 S2:1 K:4  Average access time (AAT): 4.735015
+C1:15 B1:9 S1:1 C2:17 B2:11 S2:2 K:4  Average access time (AAT): 4.116871
+C1:15 B1:9 S1:1 C2:17 B2:11 S2:3 K:4  Average access time (AAT): 3.735034
+C1:15 B1:9 S1:1 C2:17 B2:11 S2:4 K:4  Average access time (AAT): 3.662289
+C1:15 B1:9 S1:1 C2:17 B2:11 S2:5 K:4  Average access time (AAT): 4.013300
+C1:15 B1:9 S1:1 C2:17 B2:11 S2:6 K:4  Average access time (AAT): 4.038268
+C1:15 B1:9 S1:1 C2:17 B2:12 S2:1 K:4  Average access time (AAT): 4.788857
+C1:15 B1:9 S1:1 C2:17 B2:12 S2:2 K:4  Average access time (AAT): 4.206608
+C1:15 B1:9 S1:1 C2:17 B2:12 S2:3 K:4  Average access time (AAT): 3.747996
+C1:15 B1:9 S1:1 C2:17 B2:12 S2:4 K:4  Average access time (AAT): 3.834783
+C1:15 B1:9 S1:1 C2:17 B2:12 S2:5 K:4  Average access time (AAT): 3.830836
+C1:15 B1:9 S1:1 C2:17 B2:13 S2:1 K:4  Average access time (AAT): 5.122876
+C1:15 B1:9 S1:1 C2:17 B2:13 S2:2 K:4  Average access time (AAT): 4.517694
+C1:15 B1:9 S1:1 C2:17 B2:13 S2:3 K:4  Average access time (AAT): 4.270462
+C1:15 B1:9 S1:1 C2:17 B2:13 S2:4 K:4  Average access time (AAT): 4.050150
+C1:15 B1:9 S1:1 C2:17 B2:14 S2:1 K:4  Average access time (AAT): 5.551617
+C1:15 B1:9 S1:1 C2:17 B2:14 S2:2 K:4  Average access time (AAT): 5.151833
+C1:15 B1:9 S1:1 C2:17 B2:14 S2:3 K:4  Average access time (AAT): 4.939498
+C1:15 B1:9 S1:1 C2:17 B2:15 S2:1 K:4  Average access time (AAT): 6.353264
+C1:15 B1:9 S1:1 C2:17 B2:15 S2:2 K:4  Average access time (AAT): 6.191779
+C1:15 B1:9 S1:2 C2:17 B2:10 S2:2 K:4  Average access time (AAT): 4.310634
+C1:15 B1:9 S1:2 C2:17 B2:10 S2:3 K:4  Average access time (AAT): 4.185854
+C1:15 B1:9 S1:2 C2:17 B2:10 S2:4 K:4  Average access time (AAT): 4.187702
+C1:15 B1:9 S1:2 C2:17 B2:10 S2:5 K:4  Average access time (AAT): 4.210488
+C1:15 B1:9 S1:2 C2:17 B2:10 S2:6 K:4  Average access time (AAT): 4.921255
+C1:15 B1:9 S1:2 C2:17 B2:10 S2:7 K:4  Average access time (AAT): 4.977942
+C1:15 B1:9 S1:2 C2:17 B2:11 S2:2 K:4  Average access time (AAT): 3.889869
+C1:15 B1:9 S1:2 C2:17 B2:11 S2:3 K:4  Average access time (AAT): 3.765089
+C1:15 B1:9 S1:2 C2:17 B2:11 S2:4 K:4  Average access time (AAT): 3.750984
+C1:15 B1:9 S1:2 C2:17 B2:11 S2:5 K:4  Average access time (AAT): 4.099813
+C1:15 B1:9 S1:2 C2:17 B2:11 S2:6 K:4  Average access time (AAT): 4.123597
+C1:15 B1:9 S1:2 C2:17 B2:12 S2:2 K:4  Average access time (AAT): 3.784179
+C1:15 B1:9 S1:2 C2:17 B2:12 S2:3 K:4  Average access time (AAT): 3.684326
+C1:15 B1:9 S1:2 C2:17 B2:12 S2:4 K:4  Average access time (AAT): 3.850691
+C1:15 B1:9 S1:2 C2:17 B2:12 S2:5 K:4  Average access time (AAT): 3.882452
+C1:15 B1:9 S1:2 C2:17 B2:13 S2:2 K:4  Average access time (AAT): 3.929752
+C1:15 B1:9 S1:2 C2:17 B2:13 S2:3 K:4  Average access time (AAT): 3.936585
+C1:15 B1:9 S1:2 C2:17 B2:13 S2:4 K:4  Average access time (AAT): 3.945413
+C1:15 B1:9 S1:2 C2:17 B2:14 S2:2 K:4  Average access time (AAT): 4.301660
+C1:15 B1:9 S1:2 C2:17 B2:14 S2:3 K:4  Average access time (AAT): 4.259637
+C1:15 B1:9 S1:2 C2:17 B2:15 S2:2 K:4  Average access time (AAT): 4.707468
